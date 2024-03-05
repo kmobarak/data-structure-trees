@@ -1,6 +1,3 @@
-/* Zusammenarbeit von: Hussein Al awassi - Khaled Mobarak - Ahmed Shaalan */
-
-
 import aud.BinaryTree;    //to use BinaryTree<T>
 import aud.Queue;         //to use Queue<T>
 
